@@ -1,0 +1,22 @@
+/*
+author: nakano
+*/
+
+nav{
+    background-color: black;
+}
+.page-title{
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+}
+
+body{
+    background-color: black;
+    background-image: url("../image/main.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+
+}
